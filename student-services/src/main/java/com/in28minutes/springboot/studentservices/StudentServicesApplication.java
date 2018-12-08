@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class StudentServicesApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Starting Web Spring Boot");
+		System.out.println("Starting Web Spring Boot - initializing");
 		SpringApplication.run(StudentServicesApplication.class, args);
 	}
 }
