@@ -11,7 +11,7 @@ public class StudentServicesApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.ptintln("test1");
+		System.out.println("test1");
 	}
 
 }
